@@ -39,7 +39,7 @@ conda install pandas
 You also need to download the data file `hospital_readmission.csv` from the hospital group and place it in the same folder as the project files.
 
 ## Usage
-To run this project, you can use Jupyter Notebook or any other Python IDE that supports notebooks. Open the file `hospital_readmission.ipynb` and run the cells in order. The notebook contains comments and explanations for each step of the analysis.
+To run this project, you can use Jupyter Notebook or any other Python IDE that supports notebooks. Open the file `notebook.ipynb` and run the cells in order. The notebook contains comments and explanations for each step of the analysis.
 
 ## Report
 The report for this project is available in the file `hospital_readmission_report.pdf`. It contains an introduction, a methodology, a results section, a discussion section, and a conclusion section. The report also includes figures and tables that illustrate the main findings and recommendations.

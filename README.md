@@ -1,5 +1,3 @@
-Okay, I'll rewrite the readme file and change the part that mentions the .py file. Here is the updated draft:
-
 # Hospital Readmission Analysis
 
 ## Description

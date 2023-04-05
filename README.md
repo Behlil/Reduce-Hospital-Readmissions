@@ -21,6 +21,7 @@ To run this project, you need to have Python 3 and the following libraries insta
 - matplotlib
 - seaborn
 - sklearn
+- plotly
 
 You can install them using pip or conda commands. For example:
 
